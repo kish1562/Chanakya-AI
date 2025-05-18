@@ -1,0 +1,36 @@
+{
+  "name": "KISH",
+  "emotion_log": [
+    {
+      "timestamp": "2025-05-17 21:38:17.826869",
+      "text": "HELLO",
+      "mood": "neutral"
+    },
+    {
+      "timestamp": "2025-05-17 21:38:27.149206",
+      "text": "WHAT IS YPUR NAME",
+      "mood": "neutral"
+    },
+    {
+      "timestamp": "2025-05-17 21:46:23.993013",
+      "text": "how are you",
+      "mood": "neutral"
+    },
+    {
+      "timestamp": "2025-05-17 21:46:35.563745",
+      "text": "im good i wanto book flight",
+      "mood": "happy"
+    },
+    {
+      "timestamp": "2025-05-17 21:46:45.917122",
+      "text": "can you give me some coupons",
+      "mood": "neutral"
+    },
+    {
+      "timestamp": "2025-05-17 21:46:56.473650",
+      "text": "hwre i s coupen",
+      "mood": "neutral"
+    }
+  ],
+  "last_seen": "2025-05-17 21:38:05.577080"
+}
